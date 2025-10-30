@@ -12,7 +12,7 @@ For each level, reach and click on the yellow square to complete it!
 - Left-Click on a surface: Warp to surface
 - R: Reset the current level
 
-## How to run
+## ▶️ How to run
 - On Windows: run the shortcut called `3D Warp Game`.
 
 ## 🪲 Known bugs
@@ -22,3 +22,4 @@ For each level, reach and click on the yellow square to complete it!
 ## 📚 Libraries used
 - gkit3 by Jean-Claude Iehl: https://forge.univ-lyon1.fr/JEAN-CLAUDE.IEHL/gkit3
 - gkit3GL by Jean-Claude Iehl: https://forge.univ-lyon1.fr/JEAN-CLAUDE.IEHL/gkit3GL
+
