@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libgkit3GL", "libgkit3GL.vcxproj", "{F1E8531C-DDA0-9569-46A8-6EC5327F305A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "portal", "portal.vcxproj", "{B7E83915-A38A-64EB-8C45-783F7886EB3B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tp1", "tp1.vcxproj", "{FAAE880B-66B8-887C-EF33-9F7C5B3C947C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tp2", "tp2.vcxproj", "{FBAE880B-67B8-887C-F033-9F7C5C3C947C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tp3", "tp3.vcxproj", "{FCAE880B-68B8-887C-F133-9F7C5D3C947C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tp4", "tp4.vcxproj", "{FDAE880B-69B8-887C-F233-9F7C5E3C947C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		debug|x64 = debug|x64
+		release|x64 = release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1E8531C-DDA0-9569-46A8-6EC5327F305A}.debug|x64.ActiveCfg = debug|x64
+		{F1E8531C-DDA0-9569-46A8-6EC5327F305A}.debug|x64.Build.0 = debug|x64
+		{F1E8531C-DDA0-9569-46A8-6EC5327F305A}.release|x64.ActiveCfg = release|x64
+		{F1E8531C-DDA0-9569-46A8-6EC5327F305A}.release|x64.Build.0 = release|x64
+		{B7E83915-A38A-64EB-8C45-783F7886EB3B}.debug|x64.ActiveCfg = debug|x64
+		{B7E83915-A38A-64EB-8C45-783F7886EB3B}.debug|x64.Build.0 = debug|x64
+		{B7E83915-A38A-64EB-8C45-783F7886EB3B}.release|x64.ActiveCfg = release|x64
+		{B7E83915-A38A-64EB-8C45-783F7886EB3B}.release|x64.Build.0 = release|x64
+		{FAAE880B-66B8-887C-EF33-9F7C5B3C947C}.debug|x64.ActiveCfg = debug|x64
+		{FAAE880B-66B8-887C-EF33-9F7C5B3C947C}.debug|x64.Build.0 = debug|x64
+		{FAAE880B-66B8-887C-EF33-9F7C5B3C947C}.release|x64.ActiveCfg = release|x64
+		{FAAE880B-66B8-887C-EF33-9F7C5B3C947C}.release|x64.Build.0 = release|x64
+		{FBAE880B-67B8-887C-F033-9F7C5C3C947C}.debug|x64.ActiveCfg = debug|x64
+		{FBAE880B-67B8-887C-F033-9F7C5C3C947C}.debug|x64.Build.0 = debug|x64
+		{FBAE880B-67B8-887C-F033-9F7C5C3C947C}.release|x64.ActiveCfg = release|x64
+		{FBAE880B-67B8-887C-F033-9F7C5C3C947C}.release|x64.Build.0 = release|x64
+		{FCAE880B-68B8-887C-F133-9F7C5D3C947C}.debug|x64.ActiveCfg = debug|x64
+		{FCAE880B-68B8-887C-F133-9F7C5D3C947C}.debug|x64.Build.0 = debug|x64
+		{FCAE880B-68B8-887C-F133-9F7C5D3C947C}.release|x64.ActiveCfg = release|x64
+		{FCAE880B-68B8-887C-F133-9F7C5D3C947C}.release|x64.Build.0 = release|x64
+		{FDAE880B-69B8-887C-F233-9F7C5E3C947C}.debug|x64.ActiveCfg = debug|x64
+		{FDAE880B-69B8-887C-F233-9F7C5E3C947C}.debug|x64.Build.0 = debug|x64
+		{FDAE880B-69B8-887C-F233-9F7C5E3C947C}.release|x64.ActiveCfg = release|x64
+		{FDAE880B-69B8-887C-F233-9F7C5E3C947C}.release|x64.Build.0 = release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
