@@ -12,6 +12,9 @@ For each level, reach and click on the yellow square to complete it!
 - Left-Click on a surface: Warp to surface
 - R: Reset the current level
 
+## How to run
+- On Windows: run the shortcut called `3D Warp Game`.
+
 ## 🪲 Known bugs
 - If you close the game early, it'll just assume you instantly cleared every level.
 - If you look straight upwards, the camera will spin very fast.
